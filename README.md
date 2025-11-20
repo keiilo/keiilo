@@ -47,10 +47,3 @@
 </p>
 
 ---
-
-### ✨ Fun Fact
-> 💡 *Coffee + Coding = Happiness ☕💻*
-
----
-
-🔗 *Feel free to explore my repositories and connect!*
