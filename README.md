@@ -26,8 +26,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently learning **Object-Oriented Programming**
-- 📘 Studying **C#, JavaScript, PHP, Databases, Web Technologies**
+🔭 Currently learning **Object-Oriented Programming**
+📘 Studying **C#, JavaScript, PHP, Databases, Web Technologies**
 
 
 ---
