@@ -30,23 +30,3 @@
 - 📘 Studying **C#, JavaScript, PHP, Databases, Web Technologies**
 
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keiilo&show_icons=true&theme=tokyonight" alt="stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak"/>
-</p>
-
----
-
-### 🌐 Socials
-<p>
-  <a href="https://x.com/keiiloo"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
-
----
-
-
-
