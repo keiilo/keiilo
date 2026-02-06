@@ -6,12 +6,8 @@
 ### 💻 Tech Stack
 <p align="left">
   <!-- C# -->
-  <img src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <!-- JavaScript -->
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <!-- MySQL -->
-  <img src="https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <!-- React -->
   <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <!-- Node.js -->
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -22,7 +18,6 @@
 </p>
 
 ---
-
 ### 🚀 About Me
 - 🔭 Currently learning **C#, JavaScript, PHP, Databases, Web Technologies**
 
