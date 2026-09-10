@@ -3,7 +3,7 @@
 <h3 align="center">A IT Student & Developer</h3>
 
 <!-- Badges / Tech Stack -->
-### 💻 Tech Stack
+### Tech Stack
 <p align="left">
   <!-- C# -->
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -18,7 +18,7 @@
 </p>
 
 ---
-### 🚀 About Me
+###  About Me
 - 🔭 Currently learning **C#, JavaScript, PHP, Databases, Web Technologies**
 
 
