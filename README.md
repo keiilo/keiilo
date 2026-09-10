@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi👋, I'm Kim</h1>
+<h1 align="center">Heyooo I'm Kim</h1>
 <h3 align="center">A IT Student & Developer</h3>
 
 <!-- Badges / Tech Stack -->
