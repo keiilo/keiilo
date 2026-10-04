@@ -1,61 +1,40 @@
-# hey, i'm kim. 🖤
+#  hey, i'm kim! ‧₊˚
 
-**BSIT student · web developer · photographer**
+### BSIT student • Web developer 
 
-> building things, breaking things, learning things.
-
----
-
-### `01` — about me
-
-* 🎓 2nd-year **BSIT student**
-* 💻 interested in **web & backend development**
-* 📷 photography enthusiast
-* 🌏 love travelling & exploring new places
-* 🛠️ currently building academic & personal projects
-
----
-
-### `02` — tech stack
-
-![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square\&logo=javascript\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square\&logo=laravel\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square\&logo=firebase\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square\&logo=git\&logoColor=white)
-
----
-
-### `03` — github stats
+> learning to code & creating things
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keiilo&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=555555&icon_color=000000" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiilo&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=555555" height="160"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=EC6F91&center=true&vCenter=true&width=500&lines=welcome+to+my+github+%E2%9C%A8;building+%26+learning+%F0%9F%92%BB;BSIT+student+%F0%9F%8E%93" />
 </p>
 
----
 
-### `04` — currently
+## tech stack
 
-```text
-learning     →  building
-building     →  debugging
-debugging    →  learning
-```
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/HTML5-FF6B8A?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-6C63FF?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7D154?style=for-the-badge&logo=javascript&logoColor=222"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF4D6D?style=for-the-badge&logo=laravel&logoColor=white"/>
 
-### `05` — let's connect
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/keiilo)
+<img src="https://img.shields.io/badge/Node.js-68C77A?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4FA3D1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFB703?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
----
+</p>
+
+## github stats
 
 <p align="center">
-  <sub>made with curiosity & a little caffeine ☕</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=keiilo&show_icons=true&hide_border=true&bg_color=00000000&title_color=ec6f91&text_color=6b7280&icon_color=f28aa5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiilo&layout=compact&hide_border=true&bg_color=00000000&title_color=ec6f91&text_color=6b7280" width="41%" />
 </p>
+
+
+
