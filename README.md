@@ -29,7 +29,7 @@
 
 </p>
 
-## github stats
+## stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keiilo&show_icons=true&hide_border=true&bg_color=00000000&title_color=ec6f91&text_color=6b7280&icon_color=f28aa5" width="48%" />
