@@ -9,21 +9,6 @@
 </p>
 
 
----
-
-```text
-01  /  ABOUT
-```
-
-```js
-const kim = {
-  focus: "web development",
-  learning: ["React", "Node.js", "Laravel"],
-  interests: ["UI/UX"],
-  philosophy: "learn by building"
-};
-```
-
 ```text
 02  /  TECHNOLOGIES
 ```
