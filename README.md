@@ -1,7 +1,7 @@
 <h1 align="center">kim<span style="color:#EC6F91"></span></h1>
 
 <p align="center">
-  <samp>BSIT STUDENT · ASPIRING WEB DEVELOPER</samp>
+  <samp>3rd Year BSIT Student</samp>
 </p>
 
 <p align="center">
