@@ -24,23 +24,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=EC6F91)
 ![Firebase](https://img.shields.io/badge/Firebase-18181b?style=flat-square&logo=firebase&logoColor=EC6F91)
 ![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=EC6F91)
-
-```text
-03  /  GITHUB ACTIVITY
-```
-
-<div align="center">
-
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=keiilo&show_icons=true&hide_border=true&bg_color=00000000&title_color=EC6F91&text_color=9CA3AF&icon_color=EC6F91&hide_title=true" />
-
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiilo&layout=compact&hide_border=true&bg_color=00000000&title_color=EC6F91&text_color=9CA3AF" />
-
-</div>
-
 ---
 
 <div align="center">
 
-`© keiilo` · crafted with curiosity
+`© keiilo` 
 
 </div>
