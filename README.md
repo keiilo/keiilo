@@ -26,8 +26,3 @@
 ![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=EC6F91)
 ---
 
-<div align="center">
-
-`© keiilo` 
-
-</div>
